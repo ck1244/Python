@@ -1,3 +1,5 @@
+#Simple Python Program to Convert Days, Hours, Minutes and Seconds to Seconds Only
+
 #prints an introduction to the program
 print("This program will convert Days, Hours, Minutes and Seconds to Seconds")
 def ToSeconds(): #defining the function
